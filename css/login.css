@@ -1,0 +1,147 @@
+
+/* body {
+  background: url(../img/sell_detail/ia_300004623.png);
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+  height: 100px;
+  width: 100px;  
+} */
+body{
+	background-image: url(../img/login/ba.png);
+ background-size: cover;
+ height: 664px;
+	
+}
+.background{
+	background-color: gainsboro;
+	height: 40px;
+	font-size: 18px;
+	color: black;
+	line-height: 40px;
+	
+}
+.register_frame{
+	width: 456px;
+	height: 543px;
+    background-color: white;
+	margin-top: 20px;
+	position: absolute;
+	right: 150px;
+	top:50px;
+	padding: 20px;
+	
+}
+.register_content{
+	display: none;
+}
+.register_content:first-child{
+	display: inline-block;
+}
+.register_title:first-child{
+	color: red;
+}
+.register_frame .title{
+	width: 227px;
+	margin: 0 auto;
+	margin-bottom: 40px;
+	
+}
+.register_title{
+	font-size: 20px;
+	color: #000000;
+	margin-left: 20px;
+}
+#tel {
+    box-sizing: border-box;
+    width: 446px;
+    height: 35px;
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+    text-indent: 1em;
+    color: black;
+	background-color: white;
+	border-bottom: 1px solid gainsboro;
+	background-color: white;
+	font-size: 16px;
+	padding-bottom: 16px;
+
+}
+.form_list{
+	margin-bottom: 30px;
+}
+.Validform_error {
+    background-color: white;
+}
+.error-tip {
+	margin-top: 4px;
+    color: red;
+
+    font-size: 13px;
+    display: none;
+}
+.note a{
+	color: #0000FF;
+	font-size: 14px;
+	
+}
+.note{
+	margin-bottom: 20px;
+}
+.account{
+	padding: 16px 160px;
+	color: white;
+	background-color: firebrick;
+	border: 0px;
+	border-radius: 20px;
+	outline: 0;
+}
+.account_btn{
+	text-align: center;
+}
+.rem_list{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.rem_text{
+	font-size: 13px;
+	margin-left: 10px;
+}
+.more{
+	text-align: center;
+
+}
+.more a{
+		margin-left: 20px;
+		color: #0000FF;
+}
+.other .icon img{
+	width: 50px;
+	margin-left: 20px;
+}
+.other{
+	text-align: center;
+	margin-top: 60px;
+}
+.other_title{
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+
+.scan {
+	width: 446px;
+}
+.scan .two{
+	text-align: center;
+	margin-top: 60px;
+}
+.fad{
+	display: none;
+}
+.explain_QR{
+	margin-top: 20px;
+	text-align: center;
+	font-size: 14px;
+	color: black;
+}

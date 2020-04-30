@@ -1,0 +1,96 @@
+ .error-tip {
+    background-color: white;
+    color: red;
+    padding: 5px 0;
+    font-size: 14px;
+    display: none;
+}
+.take_title{
+	font-size: 20px;
+	color: black;
+	padding-bottom: 20px;
+	border-bottom: 1px solid gainsboro;
+	margin-bottom: 20px;
+}
+.form .name{
+	margin-bottom: 40px;
+}
+.details .form  #username , .form #tel ,#email{
+	padding: 8px 8px;
+	margin-left: 16px;
+	outline: 0;
+	background-color: white;
+	border: 1px solid gainsboro;
+}
+.form .explain{
+	width: 52px;
+	display: inline-block;
+}
+.form-group {
+	display: inline-block;
+}
+
+.details{
+	width: 800px;
+}
+.form .site{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.form .site .explain{
+	margin-right: 20px;
+}
+.site .specific{
+	margin-left: 70px;
+}
+.site .select select{
+	width: 100px;
+	height: 20px;
+}
+.site .select{
+	margin-bottom: 20px;
+}
+.table{
+	width: 770px;
+	border: 1px solid gainsboro;
+	
+}
+.table .thead{
+	background-color: gainsboro;
+}
+.press_button{
+	margin-top: 40px;
+	margin-bottom: 60px;
+	margin-left: 70px;
+}
+.press_button .add{
+	padding: 6px 20px;
+	background-color: #ffaf2f;
+	outline: 0;
+	border: 0px;
+	color: white;
+	margin-right: 20px;
+	
+}
+.press_button .empty{
+	padding: 6px 20px;
+	background-color:gainsboro;
+	outline: 0;
+	border: 0px;
+	color: black;
+	width: 120px;
+}
+.press_button .ensure{
+	padding: 6px 20px;
+		background-color: #ffaf2f;
+	outline: 0;
+	border: 0px;
+	color: white;
+	width: 120px;
+	display: none;
+	margin-right: 20px;
+	
+}
+.footer .tellus{
+	padding: ;
+}
